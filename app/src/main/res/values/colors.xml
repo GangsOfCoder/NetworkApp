@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0065A6</color>
+    <color name="colorPrimaryDark">#033758</color>
+    <color name="colorAccent">@android:color/black</color>
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="background">@android:color/black</color>
+    <color name="colorBlack">@android:color/black</color>
+    <color name="rowColor">#FAFAFA</color>
+    <color name="colorLightGray">#E8E8E8</color>
+    <color name="colorBlackGray">#9A9A9A</color>
+    <color name="colorGray600">#F3F3F3</color>
+
+    <color name="intro_bullet_inactive">#cacaca</color>
+    <color name="intro_bullet_active">#FFFFFF</color>
+    <color name="colorGreen900">#61B300</color>
+
+    <array name="array_intro_bullet_inactive">
+        <item>@color/intro_bullet_inactive</item>
+        <item>@color/intro_bullet_inactive</item>
+        <item>@color/intro_bullet_inactive</item>
+        <item>@color/intro_bullet_inactive</item>
+    </array>
+    <array name="array_intro_bullet_active">
+        <item>@color/intro_bullet_active</item>
+        <item>@color/intro_bullet_active</item>
+        <item>@color/intro_bullet_active</item>
+        <item>@color/intro_bullet_active</item>
+    </array>
+</resources>
